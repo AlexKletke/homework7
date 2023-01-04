@@ -1,4 +1,5 @@
-from menu import *
+from menu import greeting
+from menu import phone_book_functionality
 
 greeting()
 
